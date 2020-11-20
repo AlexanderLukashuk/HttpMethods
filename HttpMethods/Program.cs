@@ -11,17 +11,18 @@ namespace HttpMethods
         static async Task Main(string[] args)
         {
             //https://postman-echo.com/get?foo1=bar1&foo2=bar2
-            //var getRequest = WebRequest.Create("https://postman-echo.com/get?foo1=bar1&foo2=bar2");
-            //getRequest.Method = "GET";
-            ////getRequest.Headers.Add(...)
+            var getRequest = WebRequest.Create("https://postman-echo.com/get?foo1=bar1&foo2=bar2");
+            getRequest.Method = "GET";
+            //getRequest.Headers.Add(...)
 
-            //var getResponse = getRequest.GetResponse() as HttpWebResponse;
+            var getResponse = getRequest.GetResponse() as HttpWebResponse;
 
-            //using (var stream = new StreamReader(getResponse.GetResponseStream()))
-            //{
-            //    Console.WriteLine(stream.ReadToEnd());
-            //}
-            //getResponse.Close();
+            using (var stream = new StreamReader(getResponse.GetResponseStream()))
+            {
+                Console.WriteLine(stream.ReadToEnd());
+            }
+            getResponse.Close();
+            Console.WriteLine();
 
             var postRequest = WebRequest.Create("https://postman-echo.com/post");
             postRequest.Method = "POST";
