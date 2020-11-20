@@ -1,0 +1,13 @@
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\HttpMethods\HttpMethods\bin\Debug\netcoreapp3.1\HttpMethods.exe
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\HttpMethods\HttpMethods\bin\Debug\netcoreapp3.1\HttpMethods.deps.json
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\HttpMethods\HttpMethods\bin\Debug\netcoreapp3.1\HttpMethods.runtimeconfig.json
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\HttpMethods\HttpMethods\bin\Debug\netcoreapp3.1\HttpMethods.runtimeconfig.dev.json
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\HttpMethods\HttpMethods\bin\Debug\netcoreapp3.1\HttpMethods.dll
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\HttpMethods\HttpMethods\bin\Debug\netcoreapp3.1\HttpMethods.pdb
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\HttpMethods\HttpMethods\obj\Debug\netcoreapp3.1\HttpMethods.csprojAssemblyReference.cache
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\HttpMethods\HttpMethods\obj\Debug\netcoreapp3.1\HttpMethods.AssemblyInfoInputs.cache
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\HttpMethods\HttpMethods\obj\Debug\netcoreapp3.1\HttpMethods.AssemblyInfo.cs
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\HttpMethods\HttpMethods\obj\Debug\netcoreapp3.1\HttpMethods.csproj.CoreCompileInputs.cache
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\HttpMethods\HttpMethods\obj\Debug\netcoreapp3.1\HttpMethods.dll
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\HttpMethods\HttpMethods\obj\Debug\netcoreapp3.1\HttpMethods.pdb
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\HttpMethods\HttpMethods\obj\Debug\netcoreapp3.1\HttpMethods.genruntimeconfig.cache
